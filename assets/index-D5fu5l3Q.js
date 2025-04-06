@@ -58,7 +58,7 @@ Please change the parent <Route path="${N}"> to <Route path="${N==="/"?"*":`${N}
  * LICENSE.md file in the root directory of this source tree.
  *
  * @license MIT
- */function Fb(t){return k.createElement(Jx,{flushSync:Gv.flushSync,...t})}const $b="/assets/logo-O5w9G5xO.png",Ub=()=>{};var _g={};/**
+ */function Fb(t){return k.createElement(Jx,{flushSync:Gv.flushSync,...t})}const $b="/react-ecommerce-website/assets/logo-O5w9G5xO.png",Ub=()=>{};var _g={};/**
  * @license
  * Copyright 2017 Google LLC
  *
